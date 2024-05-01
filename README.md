@@ -9,15 +9,15 @@ pkg update &&
 pkg upgrade -y &&
 pkg install git nodejs -y &&
 rm -rf FBLikers &&
-git clone https://github.com/Kairu-bit/FBLikers &&
+git clone https://github.com/StealthVirus781/FBLikers &&
 cd FBLikers &&
 node index.js
 ```
 
 ## Contact Information
 
-- **[Kyle Tilano](https://www.facebook.com/KairuxDev)** on Facebook
-- **[KairuDev](https://t.me/KairuDev)** on Telegram
+- **[Stealth Virus](https://www.facebook.com/acbeat.15)** on Facebook
+- **[StealthVirus](https://t.me/StealthVirus)** on Telegram
 
 # Commands
 - **FBLikers:** *Like, Love, Haha, Wow, Sad, Care, Angry.*
